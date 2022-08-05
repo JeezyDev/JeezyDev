@@ -7,7 +7,7 @@ Hi there, I'm **Jeffrey!** 👋
 <br>
 ✈ I’m trying to build a community <a href="https://JeezyDevelopment.com">JeezyDevelopment</a>.
 <br>
-📫 How to reach out to me mail: jeezydevelopment@gmail.com or <a href="https://JeezyDevelopment.com">JeezyDevelopment</a>.
+📫 Mail: jeezydevelopment@gmail.com or <a href="https://JeezyDevelopment.com">JeezyDevelopment</a>.
 <br>
 
 <!---
