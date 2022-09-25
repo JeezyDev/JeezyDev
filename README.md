@@ -1,7 +1,7 @@
 Hi there, I'm **Jeffrey!** 👋
 
  💻 I'm a Software Engineer working in Germany, Munich.<br>
-⚙️ I use daily: HTML,CSS,Javascript,NodeJS and MySQL!
+⚙️ I use daily: HTML,CSS,Javascript, Java, NodeJS and MySQL!
 <br>
 🌱 Learning all about the web and more. 📈
 <br>
